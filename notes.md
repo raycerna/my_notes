@@ -4,3 +4,4 @@ This is a repository for my notes
 touch adds file
 mkdir adds folder
 git clone SSH git address for your repository to clone
+add, commit, push
